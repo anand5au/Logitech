@@ -1,0 +1,29 @@
+Initial employeeMap:{John=[Employee(name=John, age=25, department=Engineering), Employee(name=John, age=35, department=Finance)], Tyler=[Employee(name=Tyler, age=30, department=Engineering)]}
+Initial Employees Count: 3
+Input           : Employee(name=Tyler, age=35, department=IT)
+Actual Output   : 4
+Expected Output : 4
+
+Initial employeeMap:{John=[Employee(name=John, age=25, department=Engineering), Employee(name=John, age=35, department=Finance)], Tyler=[Employee(name=Tyler, age=30, department=Engineering)]}
+Initial Employees Count: 3
+Input           : null
+Actual Output   : 3
+Expected Output : 3
+
+Initial employeeMap:{John=[Employee(name=John, age=25, department=Engineering), Employee(name=John, age=35, department=Finance)], Tyler=[Employee(name=Tyler, age=30, department=Engineering)]}
+Initial Employees Count: 3
+Input           : Employee(name=Jeremy, age=35, department=IT)
+Actual Output   : 4
+Expected Output : 4
+
+Initial employeeMap:{John=[Employee(name=John, age=25, department=Engineering), Employee(name=John, age=35, department=Finance)], Tyler=[Employee(name=Tyler, age=30, department=Engineering)]}
+Initial Employees Count: 3
+Input           : Michael
+Actual Output   : 0
+Expected Output : 0
+
+Initial employeeMap:{John=[Employee(name=John, age=25, department=Engineering), Employee(name=John, age=35, department=Finance)], Tyler=[Employee(name=Tyler, age=30, department=Engineering)]}
+Initial Employees Count: 3
+Input           : John
+Actual Output   : 2
+Expected Output : 2
