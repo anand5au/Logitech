@@ -1,5 +1,3 @@
-package employee;
-
 import lombok.SneakyThrows;
 import lombok.val;
 import org.junit.After;

@@ -1,5 +1,3 @@
-package employee;
-
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 
